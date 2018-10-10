@@ -1,0 +1,38 @@
+It's a minigame that is based on Survival Games, but a few chenges, which are inspired by the game PUBG, should improve this minigame.
+
+The Start:
+The players spawn in an aircraft and have to leave this within 30 seconds and use the elytra to fly to the ground.
+
+The Loot:
+You don't get items by opening chest, because they are distributed on the ground. 
+The items are hold by invisible Armorstands or these armorstands wear armor parts.
+With a rightclick on these items you will get them.
+Items will only spawn in houses. That means within villages, towns or military areas.
+The quality of the loot will be better in military areas, than in towns or villages.
+
+The Items:
+- Armor 
+- Swords and axes
+- Bow and arrows
+- Food
+- Equipment to enchant
+There will be no blocks available.
+Various weapons can also be implemented, they could be based on the game "Zombies" on Hypixel
+
+The Map:
+The map is an island that includes the following:
+- 4 villages: little farms
+- 2 towns: Houses with up to 4 floors and special buildings (school, church, etc.)
+- 2 military areas: Military structures like airport, barracks, etc.
+In addition to the mentioned areas, there will be open fields and forests that include some houses. Furthermore there are roads / paths that connect the villages.
+You can build maps with different map themes, e.g. civil war, pirates or western.
+
+The Zones:
+There will be different zones, that accidentally spawn on the map and stay for about 30 seconds.
+- Bomb-Zone: TNT is falling from the sky and explodes on when it touches the ground
+- Zombie-Zone: There are different zombies spawning
+- Toxic-Zone:A poisonous rain comes up, you get damage under the open sky
+
+The Border:
+After 3 minutes the border starts to get smaller. The middle of the Border is located at x=0,z=0.
+Therefor there is no deathmatch, as the players are pushed towards each other.
